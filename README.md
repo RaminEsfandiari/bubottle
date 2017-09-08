@@ -1,8 +1,6 @@
-# scala/play-getting-started
+# scala/bubottle
 
-A barebones Scala app (using the Play framework), which can easily be deployed to Heroku.  
-
-This application support the [Getting Started with Scala/Play on Heroku](https://devcenter.heroku.com/articles/getting-started-with-scala) article - check it out.
+A scala app to host business videos.
 
 ## Running Locally
 
