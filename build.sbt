@@ -1,4 +1,4 @@
-name := """play-getting-started"""
+name := """bubottle"""
 
 version := "1.0-SNAPSHOT"
 
